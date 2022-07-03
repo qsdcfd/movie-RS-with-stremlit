@@ -1,1 +1,1 @@
-# movie-RS-with-stremlit
+# 7월 2일부터 시작
